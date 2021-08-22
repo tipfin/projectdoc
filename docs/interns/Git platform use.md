@@ -1,6 +1,6 @@
 # Configuration of GitHub and GitLab platforms (for Interns and Mentors)
 
-## Create user account in GitHub 
+## Create user account in GitHub
 All interns and mentors should sign up into GitHub with an email id and username, after which the admin can add them into the organisation and allot them to projects.
 
 ## Download and install GUI tool on local dektop

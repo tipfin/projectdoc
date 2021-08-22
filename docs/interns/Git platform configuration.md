@@ -1,6 +1,6 @@
 # Configuration of GitHub platform (for Admins)
 
-## Create organisation & user accounts in GitHub 
+## Create organisation & user accounts in GitHub
 URL: https://github.com/organizations/tipfin 
 Org username: tipfin
 Org repository: https://github.com/tipfin

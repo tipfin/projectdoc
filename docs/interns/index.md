@@ -9,7 +9,7 @@
 
 ## Table of Contents
 
-1. [Git platform configuration](/Git platform configuration)
+1. [Git platform configuration](/Git platform configuration) 
 	1. [Create organisation & user accounts in GitHub ](Git platform configuration/#create_organisation_&_user_accounts_in_github_)
 	2. [Configure organisation tipfin in GitHub](Git platform configuration/#configure_organisation_tipfin_in_github)
 	3. [tipfin organisation configuration](Git platform configuration/#tipfin_organisation_configuration)
